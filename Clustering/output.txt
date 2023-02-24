@@ -1,0 +1,76 @@
+python cluster.py
+Cumulative Percentage of Data Variance Captured in the the first 6 features:
+ 99.5770361948274 %
+
+Discrete Percentages of Data Variance Captured in the the first 6 features:
+0)  0
+1)  46.35921747596849
+2)  40.723130124692624
+3)  6.726856181551845
+4)  3.143752350732712
+5)  1.5534401168849317
+6)  0.6693494401194963
+
+Iteration 1 Completed
+
+Iteration 2 Completed
+
+Iteration 3 Completed
+
+Iteration 4 Completed
+
+Iteration 5 Completed
+
+Iteration 6 Completed
+
+Iteration 7 Completed
+
+Iteration 8 Completed
+
+Iteration 9 Completed
+
+Iteration 10 Completed
+
+Iteration 11 Completed
+
+Iteration 12 Completed
+
+The Centroids Have Converged
+
+
+====================================================================
+Clustering Cross Validation Results
+====================================================================
+        Predicted Private Schools: 95
+           Actual Private Schools: 73
+
+        Predicted Public Schools: 21
+           Actual Public Schools: 44
+
+  True Private School Predictions: 63
+ False Private School Predictions: 32
+
+
+  True Public School Predictions: 12
+ False Public School Predictions: 9
+
+
+
+     Rand Index: 0.6410256410256411
+      Precision: 0.6631578947368421
+         Recall: 0.875
+      F-1 Score: 0.7544910179640719
+
+
+
+
+Centroid 1 Original Location: [[3.55308774 3.1465519  5.35614141 8.82240374 5.97007109 5.78629422]]
+Centroid 1 Original Location: [[0.51149817 3.9878257  0.08586374 4.19325022 7.05995687 1.36807358]]
+====================================================================
+
+
+
+====================================================================
+Script Finished Executing Successfully!
+====================================================================
+
